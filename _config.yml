@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "eln0ty"
+title                    : "7_Strong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abdallah Elnoty"
-description              : "Malware Analysis & Reverse Engineering"
+name                     : "Hussein Adel"
+description              : "Malware Analyst & Reverse Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/site_data/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#logo                     : /assets/images/site_data/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 170
@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "Abdallah Elnoty"
-  avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Analysis & Reverse Engineering"
-  location         : "127.0.0.1"
+  avatar           : /assets/images/site_data/d.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Malware Analyst & Reverse Engineer"
+  location         : "Hellwan - Cairo - Egypt"
   email            :
   links:
     - label: "Email"
