@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Blogs"
-    url: /categories/#Blogs
+    url: /categories/
   - title: "Malware Analysis"
-    url: /categories/#Malware-Analysis
+    url: /categories/
   - title: "Projects"
-    url: /categories/#Projects
+    url: /categories/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
