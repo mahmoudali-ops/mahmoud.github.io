@@ -5,12 +5,14 @@ Keyloggers are a particularly insidious type of spyware that can record and stea
 # Sample overview
 
 md5 : A7F21E412022554D187D6A876A3C08AC
+
 sha1 : 70E39BDFCAA4BCF0021311E8298266E527CF7C97
+
 sha256 : 9B683D2FDA7CA7ADCC043E4412271009A0E115CA55F9A718C385A3F46B57AE6B
 
 This sample is unpacked. It was checked by DIE & EXEINFO & PEID
 
-[![](/assets\images\Keylogger\unpacked.png)
+[![](\assets\images\Keylogger\unpacked.png)
 
 This is one sand box process flow
 
