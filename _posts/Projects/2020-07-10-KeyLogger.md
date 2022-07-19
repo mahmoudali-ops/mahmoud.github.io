@@ -34,18 +34,18 @@ This sample is unpacked. It was checked by DIE & EXEINFO & PEID
 By examining the main function for this sample we found that it calls the 'SetWindowsHookExA' that installs the hook which is the type of 'WH_KEYBOARD_LL' that is specific to keyboard events then it points to the Hooking Function 'Hooking_Keyboard_Fun' as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178153358-d46daa19-cb66-4381-8492-70199eca9801.png" width="400">
-<br />inside this function 'Hooking_Keyboard_Fun' we can find that calls 'KeyLogging_Fun' as shown in the following picture:-
+<br /><br />inside this function 'Hooking_Keyboard_Fun' we can find that calls 'KeyLogging_Fun' as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178153830-083069a9-06d3-4aa7-87af-5c638712db61.png" width="400">
-By examining this function 'KeyLogging_Fun' we can find :-
+<br /><br />By examining this function 'KeyLogging_Fun' we can find :-
 
 First : it creates a file called 'practicalmalwareanalysis.log' by calling 'CreateFileA' function to recode everything that you write on the keyboard then  as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178156194-7c894054-9572-416c-a875-18a7f2e2d63a.png" width="400">
-Inside this file 'practicalmalwareanalysis.log' it recodes the window name that you open by calling this fun 'GetForegroundWindow' as shown in the following picture:-
+<br /><br />Inside this file 'practicalmalwareanalysis.log' it recodes the window name that you open by calling this fun 'GetForegroundWindow' as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178156200-f85c2643-7757-425e-81a0-bf0c13c43d09.png" width="400">
-It recodes the window name as the folloing pattern " [Window:  New Tab - window name]" as shown in the following picture:-
+<br /><br />It recodes the window name as the folloing pattern " [Window:  New Tab - window name]" as shown in the following picture:-
 <img src="https://user-images.githubusercontent.com/84356407/178156205-ce6acb23-acbd-4761-ab3c-ad4c697ef822.png" width="400">
 <img src="https://user-images.githubusercontent.com/84356407/178156450-1c64ee3c-80b7-4788-b7a9-debee841d02e.png" width="500">
 
