@@ -46,13 +46,13 @@ First : it creates a file called 'practicalmalwareanalysis.log' by calling 'Crea
 
 <img src="https://user-images.githubusercontent.com/84356407/178156200-f85c2643-7757-425e-81a0-bf0c13c43d09.png" width="400">
 <br /><br />It recodes the window name as the folloing pattern " [Window:  New Tab - window name]" as shown in the following picture:-<br /><br />
-<img src="https://user-images.githubusercontent.com/84356407/178156205-ce6acb23-acbd-4761-ab3c-ad4c697ef822.png" width="400"><br /><br />
+<img src="https://user-images.githubusercontent.com/84356407/178156205-ce6acb23-acbd-4761-ab3c-ad4c697ef822.png" width="400"><br />
 <img src="https://user-images.githubusercontent.com/84356407/178156450-1c64ee3c-80b7-4788-b7a9-debee841d02e.png" width="500">
 
-<br /><br />Then it recodes eveything that you write on the keyboard but it first make a comparission in some case by its switch cases to check if you cleck on 'BackSpace','Crtl' or numbers etc. Then it recodes these Keystrokes as shown in the following picture:-<br /><br />
+<br />Then it recodes eveything that you write on the keyboard but it first make a comparission in some case by its switch cases to check if you cleck on 'BackSpace','Crtl' or numbers etc. Then it recodes these Keystrokes as shown in the following picture:-<br /><br />
 
 <img src="https://user-images.githubusercontent.com/84356407/178156226-06d41da3-a783-48ff-a634-de052cf8b74d.png" width="500">
-<br /><br />Then it close the Handle for the file 'practicalmalwareanalysis.log' by calling 'CloseHandle' funcion as shown in the following picture:-<br /><br />
+<br /><br />Then it close the Handle for the file 'practicalmalwareanalysis.log' by calling 'CloseHandle' funcion as shown in the following picture:-<br />
 <img src="https://user-images.githubusercontent.com/84356407/178156229-ee146033-8f11-45a0-b2d4-6b994c7d858e.png" width="500"><br /><br />
 
 # IOCs
