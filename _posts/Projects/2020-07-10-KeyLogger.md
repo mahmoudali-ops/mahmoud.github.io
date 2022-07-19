@@ -34,7 +34,7 @@ This sample is unpacked. It was checked by DIE & EXEINFO & PEID
 By examining the main function for this sample we found that it calls the 'SetWindowsHookExA' that installs the hook which is the type of 'WH_KEYBOARD_LL' that is specific to keyboard events then it points to the Hooking Function 'Hooking_Keyboard_Fun' as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178153358-d46daa19-cb66-4381-8492-70199eca9801.png" width="400">
-inside this function 'Hooking_Keyboard_Fun' we can find that calls 'KeyLogging_Fun' as shown in the following picture:-
+<br />inside this function 'Hooking_Keyboard_Fun' we can find that calls 'KeyLogging_Fun' as shown in the following picture:-
 
 <img src="https://user-images.githubusercontent.com/84356407/178153830-083069a9-06d3-4aa7-87af-5c638712db61.png" width="400">
 By examining this function 'KeyLogging_Fun' we can find :-
