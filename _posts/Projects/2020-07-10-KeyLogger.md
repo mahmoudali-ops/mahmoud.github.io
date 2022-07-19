@@ -2,7 +2,7 @@
 title: Analysis A keylogger
 classes: wide
 header:
-  teaser: /assets/images/MA/emotet-1/emotet-1.jpg
+  teaser: https://user-images.githubusercontent.com/84356407/179757411-1f69ce26-6ba0-4a31-af1c-81bf2e6d602c.jpg
 ribbon: MidnightBlue
 categories:
   - MalwareAnalysis
