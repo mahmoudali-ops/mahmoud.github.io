@@ -55,8 +55,8 @@ First : it creates a file called 'practicalmalwareanalysis.log' by calling 'Crea
 <br /><br />Then it close the Handle for the file 'practicalmalwareanalysis.log' by calling 'CloseHandle' funcion as shown in the following picture:-<br />
 <img src="https://user-images.githubusercontent.com/84356407/178156229-ee146033-8f11-45a0-b2d4-6b994c7d858e.png" width="500"><br /><br />
 
-# IOCs
-
+# IOCs <br />
+####--------
 ### Hashes
 
 sha256 : 9B683D2FDA7CA7ADCC043E4412271009A0E115CA55F9A718C385A3F46B57AE6B
