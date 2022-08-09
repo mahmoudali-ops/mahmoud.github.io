@@ -2,25 +2,30 @@
 title: Ransomware
 classes: wide
 header:
-  teaser: https://files.fm/f/uj3mrv7xg
+  teaser: https://user-images.githubusercontent.com/84356407/183726121-3c00cbbd-8a45-4609-94f9-4f5eb98e637b.jpg
 ribbon: MidnightBlue
 categories:
   - Projects
 toc: true
 ---
 
-> # Steganography
+> # Ransomware Using Python
 
-Steganography is the technique of hiding secret information.
+Ransomware is a type of malicious software or malware that is intended to block users from accessing files and data on their computer until a ransom is paid. 
+It encrypts your data.
 
-The steganography hides different types of data within a cover file. 
+here in my project (Ransomware) there are two parts :
+1. Server (Attacker)
+2. Client (Victim)
 
-The resulting stego file also contains hidden information, although it is virtually identical to the cover file.
-
-> ## Image Steganography
- Image steganography refers to hiding information i.e. text, images, audios, videos, scripts, exe files in another image.
+> ## Server (Attacker)
  
-I rely on two directions in this tool to hide information in an image:
+#### First, I make a connection by a port and an IP add
+<img src="https://user-images.githubusercontent.com/84356407/183730069-f51faaff-5246-4b61-9207-944057766288.png">
+Then, I Assign a key for encrtypting Data but if I left the key like this it will be catched using Wireshare or any  
+
+
+
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1- LSB Method
 
