@@ -45,7 +45,7 @@ here in my project (Ransomware) there are two parts :
 
  <img src="https://user-images.githubusercontent.com/84356407/183870856-15eab503-06c8-474e-af72-457f7f996a7c.png" width="500" /> 
  
- #### Then, It reads all files with thier extensions to encrypt them 
+#### Then, It reads all files with thier extensions to encrypt them 
  
  <img src="https://user-images.githubusercontent.com/84356407/183871249-0e3f1da3-38bb-424a-9c06-ac3b465968b0.png" width="500" /> 
 
