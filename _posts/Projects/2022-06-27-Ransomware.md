@@ -75,7 +75,7 @@ here in my project (Ransomware) there are two parts :
 
 ## Install python 
 Download the latest version of python [python](https://www.python.org/downloads/)
-## install labriries that we need
+## install libriries that we need
 ```
 pip install pycryptodome
 ```
