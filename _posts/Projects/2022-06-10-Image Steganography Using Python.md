@@ -1,5 +1,5 @@
 ---
-title: Steganography
+title: Image Steganography Using Python
 classes: wide
 header:
   teaser: https://user-images.githubusercontent.com/84356407/179760571-bb3cf128-34e6-4c7d-bc6a-b250e0d34aa0.png
