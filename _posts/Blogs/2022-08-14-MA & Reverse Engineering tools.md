@@ -2,7 +2,7 @@
 title: Malware analysis and Reverse Engineering tools
 classes: wide
 header:
-  teaser: https://user-images.githubusercontent.com/84356407/184531985-13aa1764-334f-431e-890f-7802d9b17a31.jpg
+  teaser: https://user-images.githubusercontent.com/84356407/184537957-7d73face-9a36-4bdc-8d34-f02a1b566fc0.png
 ribbon: MidnightBlue
 categories:
   - Blogs
