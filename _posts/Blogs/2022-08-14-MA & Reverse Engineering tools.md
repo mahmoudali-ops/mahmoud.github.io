@@ -1,5 +1,5 @@
 ---
-title: Malware analysis and RE tools
+title: Malware analysis and Reverse Engineering tools
 classes: wide
 header:
   teaser: https://user-images.githubusercontent.com/84356407/184531985-13aa1764-334f-431e-890f-7802d9b17a31.jpg
