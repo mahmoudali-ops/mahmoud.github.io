@@ -1,8 +1,6 @@
 # main links
 main:
-   - title: "CV"
-     url: /categories/#Blogs
-   - title: "CV"
+   - title: "Blogs"
      url: /categories/#Blogs
    - title: "Malware Analysis"
      url: /categories/#MalwareAnalysis
