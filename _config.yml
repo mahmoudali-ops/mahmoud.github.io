@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hussein Adel"
-  avatar           : /assets/images/site_data/d.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/site_data/d.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analyst & Reverse Engineer"
   location         : "Hellwan - Cairo - Egypt"
   email            :
