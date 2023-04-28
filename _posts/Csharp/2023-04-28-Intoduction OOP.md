@@ -1,4 +1,3 @@
-
 ---
 title: Intoduction C# 'OOP'
 classes: wide
