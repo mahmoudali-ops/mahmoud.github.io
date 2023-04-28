@@ -8,6 +8,8 @@ main:
      url: /categories/#Cryptography
    - title: "Projects"
      url: /categories/#Projects
+   - title: "C# 'OOP'"
+     url: /categories/#Csharp
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
