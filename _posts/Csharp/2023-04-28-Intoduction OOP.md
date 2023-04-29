@@ -12,14 +12,38 @@ toc: true
 > # OOP in C#
 
 # the content for this topic 
-#### - What is the OOP?
-#### - What is the Class?
-#### - What is the Object?
+#### - What is 'OOP'?
+#### - What is 'Class'?
+#### - What is 'Object'?
 
-# What is OOP?
+# What is 'OOP'?
 OOP stands for Object-Oriented Programming.
-- It's an approach that is folowed to organize the design and code by pagacking the 
+- It's an approach that is followed to organize the design and code by packaging together data states and functionality.
+- It's a technique (Approach, methodology, or way) but not technology.
 
+
+# What is 'class'?
+
+- It's a structure or a template that defines the object's appearance(How it looks like' behavior'). 
+- It is a template for objects
+
+# class syntax
+
+```
+<Access Modifiers> class <Class Name> {}
+```
+```
+EX:
+
+Public class Employee 
+{
+    // code
+}
+```
+
+- Public    ===>  ccess Modifier
+- class     ===>  Keywoed
+- Employee  ===>  Class Name
 
 
  
