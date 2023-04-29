@@ -27,7 +27,7 @@ OOP stands for Object-Oriented Programming.
 - It's a structure or a template that defines the object's appearance(How it looks like' behavior'). 
 - It is a template for objects
 
-# class syntax
+### class syntax
 
 ```
 <Access Modifiers> class <Class Name> {}
