@@ -11,7 +11,7 @@ toc: true
 
 
 > # Simple Paino Project Using C++
- ## It Produces a Sound While You  Click On a Key On The Keyboard
+## It Produces a Sound While You  Click On a Key On The Keyboard
  
  
 ## [Check it Out ](https://github.com/HusseinAdel7/Projects-and-Games-In-CPP/tree/main/Simple%20Piano)
