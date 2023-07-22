@@ -11,7 +11,7 @@ toc: true
 
 
 > # Simple Stop Watch Project Using C++
- ## It's a Console App
+## It's a Console App
  
  
 ## [Check it Out ](https://github.com/HusseinAdel7/Projects-and-Games-In-CPP/tree/main/Stopwatch)
