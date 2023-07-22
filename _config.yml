@@ -20,7 +20,7 @@ title                    : "7_Strong"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hussein Adel"
-description              : "Full Stack .Net Developer & Malware Analyst"
+description              : "Full Stack Developer & Malware Analyst"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Hussein Adel"
   avatar           : /assets/images/site_data/d.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack .Net Developer & Malware Analyst"
+  bio              : "Full Stack Developer & Malware Analyst"
   location         : "Hellwan - Cairo - Egypt"
   email            :
   links:
