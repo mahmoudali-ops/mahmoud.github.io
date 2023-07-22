@@ -13,5 +13,5 @@ toc: true
 > # Solving Problems CodeForces C++
 ## Some Problem Solving in codeforces 
  
-## [Check Them Out ](https://github.com/HusseinAdel7/Problem_Solving_C-_CodeForces)
+## [Check Them Out ](https://github.com/HusseinAdel7/Problem_Solving_Cpp_CodeForces)
 
