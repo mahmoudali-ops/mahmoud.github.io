@@ -11,9 +11,9 @@ toc: true
 
 
 > # Simple Snake Game Using C++
-> 
- ## Border As a Container For the Snake
- ## Dot To Eat via The Snake 
+
+## Border As a Container For the Snake
+## Dot To Eat via The Snake 
  
  
 ## [Check it Out ](https://github.com/HusseinAdel7/Projects-and-Games-In-CPP/tree/main/Snake%20Game/Snake)
