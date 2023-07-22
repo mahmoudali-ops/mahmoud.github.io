@@ -3,11 +3,11 @@ main:
    - title: "Blogs"
      url: /categories/#Blogs
    - title: "Security Projects"
-     url: /categories/#MalwareAnalysis
+     url: /categories/#Security_Projects
    - title: ".Net Projects"
-     url: /categories/#Cryptography
+     url: /categories/#.Net_Projects
    - title: "Various Projects"
-     url: /categories/#Projects
+     url: /categories/#Various_Projects
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
