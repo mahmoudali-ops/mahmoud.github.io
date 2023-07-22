@@ -11,8 +11,8 @@ toc: true
 
 
 > # Networking Labs
-## Configuration Many Protols 
-## Setting Up a Full Network
+## Configuration Many Protocols 
+## Setting Up Full Networks
  
  
 ## [Check Them Out ](https://github.com/HusseinAdel7/Networking-Labs/tree/main/My%20Labs)
