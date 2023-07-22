@@ -5,7 +5,7 @@ header:
   teaser: https://user-images.githubusercontent.com/84356407/183726121-3c00cbbd-8a45-4609-94f9-4f5eb98e637b.jpg
 ribbon: MidnightBlue
 categories:
-  - Projects
+  - Security_Projects
 toc: true
 ---
 
