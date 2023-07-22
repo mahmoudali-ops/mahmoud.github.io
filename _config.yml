@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Hussein Adel"
   avatar           : /assets/images/site_data/d.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack Developer                     Malware Analyst"
+  bio              : "Full Stack Developer<be><br>Malware Analyst"
   location         : "Hellwan - Cairo - Egypt"
   email            :
   links:
