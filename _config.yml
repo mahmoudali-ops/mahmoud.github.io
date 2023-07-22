@@ -115,7 +115,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HusseinAdel7"
     - label: "Whatsapp"
-      icon: "fa-brands fa-whatsapp"
+      icon: "fa-brands fa-square-whatsapp"
       url: "https://wa.me/+201098018628"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
