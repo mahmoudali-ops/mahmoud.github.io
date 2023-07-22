@@ -4,8 +4,8 @@ main:
      url: /categories/#Blogs
    - title: "Security Projects"
      url: /categories/#Security_Projects
-   - title: ".Net Projects"
-     url: /categories/#.Net_Projects
+   - title: "Full Stack Projects"
+     url: /categories/#Full_Stack_Projects
    - title: "Various Projects"
      url: /categories/#Various_Projects
   # - title: "Sample Posts"
