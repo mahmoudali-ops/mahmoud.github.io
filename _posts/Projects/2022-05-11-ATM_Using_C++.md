@@ -11,12 +11,12 @@ toc: true
 
 
 > # Simple ATM Project Using C++
- ## Login 
- ## Registration
- ## Can Check Balance
- ## Can Deposit
- ## Can Windrow
- ## make a Profile For Each User 
+## Login 
+## Registration
+## Can Check Balance
+## Can Deposit
+## Can Windrow
+## make a Profile For Each User 
  
  
 ## [Check it Out ](https://github.com/HusseinAdel7/Projects-and-Games-In-CPP/tree/main/ATM%20Project)
