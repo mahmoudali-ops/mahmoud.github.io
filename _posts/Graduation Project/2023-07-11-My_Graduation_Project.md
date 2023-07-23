@@ -1,5 +1,5 @@
 ---
-title: My Graduation Project
+title: Strong-Stego
 classes: wide
 header:
   teaser: https://github.com/HusseinAdel7/SQL_Server/assets/84356407/c8075544-8503-4b2c-a43a-f743adad039c
@@ -45,6 +45,6 @@ toc: true
 
 
 
- # Please Find The Documentation and Code For My Project
+# Please Find The Documentation and Code For My Project
 ## [Check Them Out ](https://github.com/HusseinAdel7/Graduation_Project)
 
