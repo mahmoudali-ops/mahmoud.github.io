@@ -2,7 +2,7 @@
 title: SQL Commands
 classes: wide
 header:
-  teaser: https://github.com/HusseinAdel7/Ransomeware/assets/84356407/47cc0daa-6410-4ae0-a6fb-9525b0edabe4
+  teaser: https://github.com/HusseinAdel7/SQL_Server/assets/84356407/2a1d7a1c-7260-4228-81a3-06ad44469075
 ribbon: MidnightBlue
 categories:
   - Full_Stack_Projects
