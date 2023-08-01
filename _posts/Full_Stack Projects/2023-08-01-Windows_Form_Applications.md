@@ -19,22 +19,22 @@ toc: true
 ### Full Registration Form <br><br>
 
 > # Calculator <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/9a5dee77-d6e7-4406-be57-6da36b8d1780"> <br>
+https://github.com/HusseinAdel7/huss3del.github.io/assets/84356407/fffff1d5-006d-40ff-9a56-54e48c076a97 
 ## [Check The Code](https://github.com/HusseinAdel7/Windows_Forms_Applications/tree/main/Calculator) 
 ## [check the demonstration videos](https://drive.google.com/file/d/15pKVL3wkIQaejiU5OITgJtz7SLmMAxlN/view?usp=sharing)
 
 > # Converter <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/fef82640-b7a4-4028-a9dc-fdfe20a810cc"> <br>
+https://github.com/HusseinAdel7/huss3del.github.io/assets/84356407/0ae07ac8-4d84-4da9-accc-84f0b6568f55
 ## [Check The Code](https://github.com/HusseinAdel7/Windows_Forms_Applications/tree/main/Convertor) 
 ## [check the demonstration videos](https://drive.google.com/file/d/1E3OsmNx2CBS0ni5TYefQNnYU-PIanj5-/view?usp=sharing)
 
 > # Simple Registration Form  <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/879ef752-c5e8-4fff-98ed-191c2486a6a5"> <br>
+https://github.com/HusseinAdel7/huss3del.github.io/assets/84356407/8d2ab247-1fe9-45ee-bdc0-26b3ed75de11
 ## [Check The Code](https://github.com/HusseinAdel7/Windows_Forms_Applications/tree/main/Registration_Page) 
 ## [check the demonstration videos](https://drive.google.com/file/d/1TK2YOb5N9NNenIuZ0Bt6K5kWTG-s3QmI/view?usp=sharing)
 
 > # Full Registration Form  <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/c8514dd4-7f8a-45aa-8162-c08eddfab116"> <br>
+https://github.com/HusseinAdel7/huss3del.github.io/assets/84356407/c4758caa-194f-40fe-b8f5-fb54306967e1
 ## [Check The Code](https://github.com/HusseinAdel7/Windows_Forms_Applications/tree/main/Full_Registeration_Form) 
 ## [check the demonstration videos](https://drive.google.com/file/d/1c-rVAqbMVoqJzKXB0X2bbxw21_R5hjm9/view?usp=sharing)
 
