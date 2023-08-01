@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-> # Applications Using Windows Form in C# <br>
+> # Applications Using Windows Form in C#
 
 # Please Find The Following Applications
 
