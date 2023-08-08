@@ -1,10 +1,10 @@
 # main links
 main:
-   - title: "Malware Analsis Written In .NET"
+   - title: "Analyze .NET Malware"
      url: /categories/#Blogs
-   - title: "Full Stack Projects (.Net , JS)"
+   - title: "Projects(.Net,JS)"
      url: /categories/#Security_Projects
-   - title: "Scipts Written In .NET"
+   - title: ".Net Scripts"
      url: /categories/#Full_Stack_Projects
    - title: "Various Projects"
      url: /categories/#Various_Projects
