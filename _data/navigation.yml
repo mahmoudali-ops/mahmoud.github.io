@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Analyze .NET Malware"
-     url: /categories/#Analyze_DotNet_Malware
+     url: /categories/#Analyze_.Net_Malware
    - title: "Projects(.Net,JS)"
      url: /categories/#Full_Stack_Projects
    - title: ".Net Scripts"
