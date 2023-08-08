@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/HusseinAdel7/SQL_Server/assets/84356407/2a1d7a1c-7260-4228-81a3-06ad44469075
 ribbon: MidnightBlue
 categories:
-  - Full_Stack_Projects
+  - Projects(.Net,JS)
 toc: true
 ---
 
