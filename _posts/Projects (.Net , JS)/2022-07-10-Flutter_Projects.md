@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/HusseinAdel7/Ransomeware/assets/84356407/7bf56947-ca9e-42be-b187-6030cbd9f807
 ribbon: MidnightBlue
 categories:
-  - Full_Stack_Projects
+  - Projects(.Net,JS)
 toc: true
 ---
 
