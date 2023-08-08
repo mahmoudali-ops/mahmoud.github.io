@@ -1,11 +1,11 @@
 # main links
 main:
    - title: "Analyze .NET Malware"
-     url: /categories/#Blogs
+     url: /categories/#Analyze_DotNet_Malware
    - title: "Projects(.Net,JS)"
-     url: /categories/#Security_Projects
-   - title: ".Net Scripts"
      url: /categories/#Full_Stack_Projects
+   - title: ".Net Scripts"
+     url: /categories/#DotNet_Scripts
    - title: "Various Projects"
      url: /categories/#Various_Projects
    - title: "Graduation Project"
