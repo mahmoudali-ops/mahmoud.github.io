@@ -16,7 +16,6 @@ toc: true
 
 ### Al Azhar Plan Creation Project
 ### GURUD System Using DataGridView
-### Telegram Simulation
 ### Full Registration Form
 ### Simple Registration Form 
 ### Calculator
