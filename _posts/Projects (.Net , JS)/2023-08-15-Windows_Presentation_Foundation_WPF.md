@@ -1,5 +1,5 @@
 ---
-title: Windows Form Applications
+title: Windows Presentation Foundation(WPF)
 classes: wide
 header:
   teaser: https://github.com/HusseinAdel7/Facebook_Hack_Design/assets/84356407/a648d1eb-cf16-4f16-86eb-6c65c088d265
@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-> # Applications Using Windows Form in C#
+> # Applications Using Windows Presentation Foundatio(WPF) in C#
 
 # Please Find The Following Applications
 
