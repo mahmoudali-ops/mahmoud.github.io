@@ -8,7 +8,7 @@ categories:
   - DotNet_Articles
 toc: true
 ---
-<div dir="rtl">
+
 # شرح Extension Methods
 
 **بص يا صاحبي،** الـ Extension Methods دي حاجة جامدة جدًا في C#. هي ببساطة طريقة تخليك تضيف دوال جديدة لأي كلاس أو نوع موجود أصلاً، من غير ما تحتاج تلمس الكود الأصلي بتاعه. 
@@ -130,5 +130,4 @@ public static IEnumerable<T> Where<T>(this IEnumerable<T> source, Func<T, bool> 
 الملحوظة الوحيدة: خلي بالك، الـ Extension Methods مش بتعدل على الكلاس فعليًا. دي بس بتضيف طريقة جديدة بتبان كأنها جزء منه.
 
 استخدامها بحكمة: متحولش تضيف دوال كتير لأن ده ممكن يعقد الكود ويخليه صعب في القراءة.
-</div>
 
