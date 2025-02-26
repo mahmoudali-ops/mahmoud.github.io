@@ -1,11 +1,11 @@
 ---
-title: Alazhar Plane Project
+title: QuickShop (E-Commerce ASP .NET Core MVC)
 classes: wide
 header:
   teaser: https://github.com/HusseinAdel7/Ransomeware/assets/84356407/816c5a0b-1609-4e0f-8ba6-f946d17a5e50
 ribbon: MidnightBlue
 categories:
-  - Projects(.Net,JS)
+  - Full_Stack_Projects
 toc: true
 ---
 
