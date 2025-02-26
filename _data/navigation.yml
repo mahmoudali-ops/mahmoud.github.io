@@ -3,14 +3,12 @@ main:
    
    - title: "Full Stack Projects"
      url: /categories/#Full_Stack_Projects
-   - title: "ASP.NET Core MVC Projects"
-     url: /categories/#MVC_Projects
-   - title: "ASP.NET Core API Projects"
-     url: /categories/#API_Projects
-   - title: "Desktop Applications"
-     url: /categories/#Desktop_Applications
+   - title: "Back End Projects"
+     url: /categories/#Back_End_Projects
    - title: "Front End Projects"
      url: /categories/#Front_End_Projects
+   - title: "Desktop Applications"
+     url: /categories/#Desktop_Applications
    - title: ".Net Articles"
      url: /categories/#DotNet_Articles
    - title: "Various Projects"
