@@ -1,9 +1,6 @@
 # main links
 main:
-   - title: ".Net Articles"
-     url: /categories/#DotNet_Articles
-   - title: "Various Projects"
-     url: /categories/#Various_Projects
+   
    - title: "Full Stack Projects"
      url: /categories/#Full_Stack_Projects
    - title: "ASP.NET Core MVC Projects"
@@ -12,6 +9,11 @@ main:
      url: /categories/#API_Projects
    - title: "Desktop Applications"
      url: /categories/#Desktop_Applications
+
+   - title: ".Net Articles"
+     url: /categories/#DotNet_Articles
+   - title: "Various Projects"
+     url: /categories/#Various_Projects
 
   # - title: "Sample Posts"
   #   url: /year-archive/
