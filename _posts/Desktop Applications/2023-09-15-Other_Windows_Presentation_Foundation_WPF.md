@@ -1,5 +1,5 @@
 ---
-title: Windows Presentation Foundation(WPF)
+title: Other Windows Presentation Foundation(WPF) Applications
 classes: wide
 header:
   teaser: https://github.com/HusseinAdel7/Facebook_Hack_Design/assets/84356407/a648d1eb-cf16-4f16-86eb-6c65c088d265
@@ -14,15 +14,8 @@ toc: true
 
 # Please Find The Following Applications
 
-### Modern School System 
 ### Vending Machine
 ### Telegram Simulation
-
-
-> # Modern School System <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/8ab4cf3c-8c8e-430c-bf72-1ffcb5e220c6"> <br>
-## [Check The Code](https://github.com/HusseinAdel7/Windows_Presentation_Foundatio_--WPF--/tree/main/Modern%20School%20System) 
-## [check the demonstration video](https://drive.google.com/file/d/1wwIUU3HL8ZA9edymNmVv9CqERaKaBqpo/view?usp=sharing)
 
 > # Vending Machine  <br>
 <img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Facebook_Hack_Design/assets/84356407/f7416ce5-0e8e-42e0-8531-c80319fc0b85"> <br>
