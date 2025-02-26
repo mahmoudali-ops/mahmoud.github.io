@@ -2,7 +2,7 @@
 title: DatabaseViewer - Database Exploration Tool (Desktop Application)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/17f9bcc9-4096-49c9-ba0d-c570df71d850
+  teaser: https://github.com/user-attachments/assets/d05079ed-4af6-4707-b798-c13be602a7d3
 ribbon: MidnightBlue
 categories:
   - Desktop_Applications
