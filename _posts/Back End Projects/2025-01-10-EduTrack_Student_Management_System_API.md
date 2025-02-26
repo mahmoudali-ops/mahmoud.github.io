@@ -2,7 +2,7 @@
 title: EduTrack (Student Management System API)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/e290a8aa-d9ef-4156-a130-c83180a1a3c0
+  teaser: https://github.com/user-attachments/assets/5b5dfc71-b6f2-4b0b-8295-3d32d1a5a43e
 ribbon: MidnightBlue
 categories:
   - Back_End_Projects
