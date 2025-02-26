@@ -11,7 +11,7 @@ toc: true
 
 
 > # Moon Light Candles Website
-## Using HTML, CSS and JavaScript
+## Using HTML, CSS, and JavaScript
 
 ## [Live Preview](https://husseinadel7.github.io/Moon_Light_Candles/)
 ## [Check The Code Out](https://github.com/HusseinAdel7/Moon_Light_Candles)
