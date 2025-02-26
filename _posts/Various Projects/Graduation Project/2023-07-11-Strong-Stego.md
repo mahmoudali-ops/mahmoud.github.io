@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/HusseinAdel7/SQL_Server/assets/84356407/c8075544-8503-4b2c-a43a-f743adad039c
 ribbon: MidnightBlue
 categories:
-  - Graduation_Project
+  - Various_Projects
 toc: true
 ---
 
