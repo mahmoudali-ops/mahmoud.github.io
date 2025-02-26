@@ -67,24 +67,26 @@ toc: true
 #### This **ASP.NET Core MVC e-commerce platform** delivers a **complete and secure shopping experience** with full admin control, payment integration, and a user-friendly interface. 🚀
 <br>
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5c6cae98-150b-43c7-ba1b-f267ae7eaf96"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/70c5d506-145c-485a-9033-13d3abd47f24"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/79a503f6-a9e9-43db-9bc9-c99f46d20da3"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/364ee307-60a4-40b1-a18e-fd83601e2036"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6833e714-0896-44fb-b589-aff98b390912"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5ab93a90-40bf-4726-9b5e-a96e69496016"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/db5b8e03-0a9e-4dbd-b91b-e29a102c8f12"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/8caca2cc-21fd-4e88-b977-562f04517426"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/ce3ca83b-90bf-43e9-af89-366b1475ac7c"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6c681bf1-2fd0-427b-8862-d2e465ab02a4"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/e6fe7460-d063-4296-b46f-f76726de1dac"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6cc4716d-7c9d-4048-8478-042235d581cb"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/06115e28-ba20-4685-bc6a-80c4fa277497"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/b69c286a-1fb3-44a6-8831-9d4f2ae3b39f"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/988495ea-65b6-499c-8b18-65bffe3aa5a0"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/be800450-6d36-448f-8d11-30b94f15de8b"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/ad0cfc4f-a039-4486-8de7-bab6a2db89d4"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/456ac1f9-1105-4d32-aa1a-30491fab34b8"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/dd230c75-ab48-4d60-ad5a-77b05169cf47"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/21483cb2-3ab7-486d-8243-0d882770cad1"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/d8b98181-d0dd-48ce-8b73-4abe19a66390"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/d8f05d35-8098-4efc-8fd3-d61f15c7f63c"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/80eb642c-436a-4e17-b42e-011458f11ef6"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/06fdfa81-801f-485e-abe5-e2de9e8b9d8c"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/e422d10d-9828-4e8a-a0dd-acab22c5d7e5"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/c8217bbe-0b97-44c3-a4e3-d3bf70ad13c0"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/564eacf6-f1ff-4279-8c76-a0805547b953"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/293f4bd7-078d-4e75-8028-5e4cdac3d7bf"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/c8de3165-b20f-4a07-bf99-e3076ea5ed37"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/43a0de1c-e6e1-43e4-ba21-d51e0c7ae54f"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/be1fb4e7-abb0-4dba-9e1d-2159ded7b6e2"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/51fe3813-140c-48c4-8458-f32a1b53178a"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/48e7df82-b744-4aaf-b486-5509fb1afd04"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/28d9e048-cda4-4fff-b1ba-410d2f818d4e"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/af823678-977b-4926-af63-c2d6f8c2f509"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5e7b0c7f-acfa-4cbc-ab0d-9fc3932249e0"> <br><br>
+
+
 
 > # [Demonstration Video](https://youtu.be/Ue0AiHNg_G4)
 > # [Check The Code Out ](https://github.com/HusseinAdel7/E-Commerce_ASP.NET-Core-MVC)
