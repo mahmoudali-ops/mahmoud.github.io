@@ -2,7 +2,7 @@
 title: Modern School System - School Management Application
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/1b6e0929-22d2-4f7f-9999-3e6d2571e3c1
+  teaser: https://github.com/user-attachments/assets/8d4b14c8-f20d-443d-84a5-1fb1205f5e88
 ribbon: MidnightBlue
 categories:
   - Desktop_Applications
