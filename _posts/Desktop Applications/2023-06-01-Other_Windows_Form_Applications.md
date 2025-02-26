@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/b9c7302d-1116-47ce-a1be-be4d2b1c57ff
 ribbon: MidnightBlue
 categories:
-  - Projects(.Net,JS)
+  - Desktop_Applications
 toc: true
 ---
 
