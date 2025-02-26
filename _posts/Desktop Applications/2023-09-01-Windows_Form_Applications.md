@@ -1,5 +1,5 @@
 ---
-title: Windows Form Applications
+title: Other Windows Form Applications
 classes: wide
 header:
   teaser: https://github.com/HusseinAdel7/Windows_Forms_Applications/assets/84356407/b9c7302d-1116-47ce-a1be-be4d2b1c57ff
@@ -14,18 +14,13 @@ toc: true
 
 # Please Find The Following Applications
 
-### Al Azhar Plan Creation Project
+
 ### GURUD System Using DataGridView
 ### Full Registration Form
 ### Simple Registration Form 
 ### Calculator
 ### Converter<br><br>
 
-
-> # Al Azhar Plan Creation Project  <br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/Facebook_Hack_Design/assets/84356407/cf63e257-d9c0-4228-b20e-db5a83e9bf29"> <br>
-## [Check The Code](https://github.com/HusseinAdel7/Windows_Forms_Applications/tree/main/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81) 
-## [check the demonstration video](https://drive.google.com/file/d/14wGLyWYPEtq5N_OS96dUBJOUsWU-lE4X/view?usp=sharing)
 
 > # GURUD System Using DataGridView  <br>
 <img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/5656bfd7-844b-4292-b5e8-af9911ccb742"> <br>
