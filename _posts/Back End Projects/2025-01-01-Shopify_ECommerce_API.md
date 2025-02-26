@@ -2,7 +2,7 @@
 title: Shopify (E-Commerce API)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/e26d9802-ea87-4178-a2d5-6d3c7b5a62b7
+  teaser: https://github.com/user-attachments/assets/09230ad1-a4d3-49c7-8cbb-4349bb665499
 ribbon: MidnightBlue
 categories:
   - Back_End_Projects
