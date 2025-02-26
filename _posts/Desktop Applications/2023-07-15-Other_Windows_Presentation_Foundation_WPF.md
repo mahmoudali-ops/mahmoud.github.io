@@ -5,7 +5,7 @@ header:
   teaser: https://github.com/HusseinAdel7/Facebook_Hack_Design/assets/84356407/a648d1eb-cf16-4f16-86eb-6c65c088d265
 ribbon: MidnightBlue
 categories:
-  - Projects(.Net,JS)
+  - Desktop_Applications
 toc: true
 ---
 
