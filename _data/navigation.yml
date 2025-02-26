@@ -1,15 +1,18 @@
 # main links
 main:
-   - title: "Analyze .NET Malware"
-     url: /categories/#Analyze_.Net_Malware
-   - title: "Projects(.Net,JS)"
-     url: /categories/#Projects(.Net,JS)
    - title: ".Net Articles"
      url: /categories/#DotNet_Articles
    - title: "Various Projects"
      url: /categories/#Various_Projects
-   - title: "Graduation Project"
-     url: /categories/#Graduation_Projects
+   - title: "Full Stack Projects"
+     url: /categories/#Full_Stack_Projects
+    - title: "ASP.NET Core MVC Projects"
+     url: /categories/#MVC_Projects
+    
+   - title: "ASP.NET Core API Projects"
+     url: /categories/#API_Projects
+   - title: "Desktop Applications"
+     url: /categories/#Desktop_Applications
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
