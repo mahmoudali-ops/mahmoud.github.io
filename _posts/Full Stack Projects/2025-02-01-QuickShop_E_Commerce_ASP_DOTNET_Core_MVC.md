@@ -2,7 +2,7 @@
 title: QuickShop (E-Commerce ASP .NET Core MVC)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/49cb062d-1e93-41d8-9ac8-b4a872ec1379
+  teaser: https://github.com/user-attachments/assets/868e01db-5f0d-451c-803c-1ae8b928fd96
 ribbon: MidnightBlue
 categories:
   - Full_Stack_Projects
