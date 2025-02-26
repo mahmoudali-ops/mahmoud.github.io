@@ -2,7 +2,7 @@
 title: Al Azhar Plan Creation - Desktop Application
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/f251a7af-6692-4b2c-9e82-ed72d6cc7041
+  teaser: https://github.com/user-attachments/assets/62d33bee-ad20-4574-9cf3-900c1c5ad3b7
 ribbon: MidnightBlue
 categories:
   - Desktop_Applications
