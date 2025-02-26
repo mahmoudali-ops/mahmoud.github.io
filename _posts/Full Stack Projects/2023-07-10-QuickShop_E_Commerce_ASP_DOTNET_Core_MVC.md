@@ -14,11 +14,6 @@ toc: true
 
 ### This e-commerce website project developed using ASP.NET Core MVC allows users to browse products by category, register and log in, add products to the shopping cart, and complete purchases easily.
 
-> # Key Features:
-
-## **Fully Integrated E-Commerce Store Using ASP.NET Core MVC**  
-This e-commerce website is a complete online shopping platform built using **ASP.NET Core MVC**, providing users with an intuitive shopping experience and an efficient admin management system.
-
 ---
 
 > # **🔹 Key Features:**
@@ -27,27 +22,18 @@ This e-commerce website is a complete online shopping platform built using **ASP
 - **User Registration & Login:** Secure authentication using **ASP.NET Identity**.  
 - **Roles & Permissions:** Different roles for **Admin, Vendor, and Customer**.  
 - **Profile Management:** Users can update personal information, change passwords, and manage addresses.  
-- **Social Login Integration:** Optional support for Google, Facebook, etc.
 
 #### **2. Product Management**
 - **Browse & Search:** Users can filter products by **category, brand, price range, and popularity**.  
 - **Product Details Page:** Displays product images, description, price, stock availability, and reviews.  
-- **Product Variants:** Support for **different sizes, colors, and specifications**.  
-- **Wishlist:** Users can save favorite products for later.  
-- **Product Ratings & Reviews:** Customers can leave feedback.
 
 #### **3. Shopping Cart & Checkout**
 - **Add to Cart:** Users can add/remove products from the cart.  
 - **Cart Persistence:** Cart items remain saved even after logout.  
 - **Quantity Adjustment:** Modify product quantities directly in the cart.  
-- **Coupon Codes & Discounts:** Apply discount codes at checkout.  
-- **Secure Checkout:** Multi-step checkout with **billing, shipping, and payment**.  
-- **Guest Checkout:** Users can purchase without registration.  
 
 #### **4. Order Management**
 - **Order Tracking:** Users can check order status (Pending, Processing, Shipped, Delivered, Canceled).  
-- **Invoice Generation:** Automatic PDF invoices for orders.  
-- **Email Notifications:** Customers receive email alerts for order confirmation, shipment, and delivery.  
 
 #### **5. Payment Integration**
 - **Online Payments:** Integration with **PayPal, Stripe, or other payment gateways**.  
@@ -57,21 +43,16 @@ This e-commerce website is a complete online shopping platform built using **ASP
 #### **6. Admin Dashboard**
 - **Product & Category Management:** Add, edit, and delete products/categories.  
 - **Order Management:** View, update, or cancel customer orders.  
-- **User Management:** Control user roles, activate/deactivate accounts.  
+- **User Management:** Control user roles, and activate/deactivate accounts.  
 - **Reports & Analytics:** View sales reports, best-selling products, and revenue statistics.  
 
 #### **7. Responsive & User-Friendly UI**
 - **Bootstrap & CSS:** Ensures responsive design for mobile, tablet, and desktop.  
 - **AJAX & jQuery:** Improve user experience with smooth interactions.  
 
-#### **8. Security Features**
-- **Data Encryption:** Secure user data and transactions.  
-- **Role-Based Access Control (RBAC):** Restrict access to admin functionalities.  
-- **Anti-Forgery Tokens:** Prevent CSRF attacks.  
-
 ---
 
-### **🔹 Technologies Used**
+> # **🔹 Technologies Used**
 - **ASP.NET Core MVC** – Framework for building the application.  
 - **Entity Framework Core** – ORM for database interactions.  
 - **SQL Server** – Database for storing products, users, and orders.  
@@ -82,7 +63,7 @@ This e-commerce website is a complete online shopping platform built using **ASP
 
 ---
 
-### **🔹 Additional Enhancements (Future Features)**
+> # **🔹 Additional Enhancements (Future Features)**
 - **Multi-Language Support:** Enable customers to browse in different languages.  
 - **Live Chat Support:** Integrate a chatbot or real-time support.  
 - **AI-Based Recommendations:** Suggest products based on user behavior.  
