@@ -63,34 +63,27 @@ toc: true
 
 ---
 
-> # **🔹 Additional Enhancements (Future Features)**
-- **Multi-Language Support:** Enable customers to browse in different languages.  
-- **Live Chat Support:** Integrate a chatbot or real-time support.  
-- **AI-Based Recommendations:** Suggest products based on user behavior.  
-- **Subscription & Email Marketing:** Users can subscribe for deals & offers.  
-
-This **ASP.NET Core MVC e-commerce platform** delivers a **complete and secure shopping experience** with full admin control, payment integration, and a user-friendly interface. 🚀
+#### This **ASP.NET Core MVC e-commerce platform** delivers a **complete and secure shopping experience** with full admin control, payment integration, and a user-friendly interface. 🚀
 
 
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5c6cae98-150b-43c7-ba1b-f267ae7eaf96"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/70c5d506-145c-485a-9033-13d3abd47f24"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/79a503f6-a9e9-43db-9bc9-c99f46d20da3"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/364ee307-60a4-40b1-a18e-fd83601e2036"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6833e714-0896-44fb-b589-aff98b390912"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5ab93a90-40bf-4726-9b5e-a96e69496016"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/db5b8e03-0a9e-4dbd-b91b-e29a102c8f12"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/8caca2cc-21fd-4e88-b977-562f04517426"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/ce3ca83b-90bf-43e9-af89-366b1475ac7c"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6c681bf1-2fd0-427b-8862-d2e465ab02a4"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/e6fe7460-d063-4296-b46f-f76726de1dac"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6cc4716d-7c9d-4048-8478-042235d581cb"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/06115e28-ba20-4685-bc6a-80c4fa277497"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/b69c286a-1fb3-44a6-8831-9d4f2ae3b39f"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/988495ea-65b6-499c-8b18-65bffe3aa5a0"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/be800450-6d36-448f-8d11-30b94f15de8b"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/ad0cfc4f-a039-4486-8de7-bab6a2db89d4"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/456ac1f9-1105-4d32-aa1a-30491fab34b8"> <br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/6e9bc0e6-053b-4880-a76b-9b4421730c61"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/2c717319-7bb3-49d9-98b2-83fb4793efe6"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/a8c6fb8d-e2ee-4828-80af-66cb084fa58f"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/d49729e0-d6d4-42d4-bd71-7930cd946994"> <br><br>
-<img  alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/3786027e-61db-4543-aefe-29e0761228d2"> <br><br>
-<img  alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/be333288-3a1f-4ea9-ba86-4bd2e49c8cd5"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/9e82f6d5-37e7-44c0-9f3b-8818d4be1840"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/HusseinAdel7/SQL_Server/assets/84356407/2db05da7-c2b4-4a13-b455-8216afd1f701"> <br><br>
-
-## [Check It Out ](https://husseinadel7.github.io/Alazhar_Plan_Project/)
+> # [Demonstration Video](https://youtu.be/Ue0AiHNg_G4)
+> # [Check The Code Out ](https://github.com/HusseinAdel7/E-Commerce_ASP.NET-Core-MVC)
