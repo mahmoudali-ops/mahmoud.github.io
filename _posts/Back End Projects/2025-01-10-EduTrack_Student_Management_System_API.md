@@ -67,10 +67,11 @@ toc: true
 This **ASP.NET Core Web API project** provides a **secure, scalable, and high-performance student management system** with **role-based access, caching, and a clean architecture** for future enhancements. 🚀
 <br>
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/927bfdbc-e640-44d8-8c57-2c9f612a0ccd"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/763f898f-1099-4367-83b3-c025ca171ebf"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/4d83d405-2216-4395-8b2b-b7fb5a711799"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/3557e8f3-48c1-4d9d-8c1c-abaaaf209d55"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/9435bec9-6cc8-4343-a772-edb40197f767"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/fa640af0-3add-40d9-bae9-540c6925bfb6"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/95dc1e81-1820-41c3-8ae7-5ab982a3e95a"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/21ec3e8f-438e-4345-aebf-c0c39242dd95"> <br><br>
+
 
 
 > # [Check The Code Out ](https://github.com/HusseinAdel7/EduTrack_ASP.NET-Core-API)
