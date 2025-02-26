@@ -73,7 +73,7 @@ Shopify_E_Commerce_API
 This **ASP.NET Core Web API project** delivers a **secure, high-performance, and scalable e-commerce backend** with complete product, order, and user management functionalities. 🚀
 <br>
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/a53f9ebc-1c09-4c9d-ace7-18118a45e3d4"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/c29ebaf8-29b7-4eaa-806a-dcb91a04efc9"> <br><br>
 
 
 
