@@ -18,41 +18,42 @@ toc: true
 
 > # **🔹 Key Features:**
 
-#### **1. User Management**
+### **1. User Management**
 - **User Registration & Login:** Secure authentication using **ASP.NET Identity**.  
 - **Roles & Permissions:** Different roles for **Admin, Vendor, and Customer**.  
 - **Profile Management:** Users can update personal information, change passwords, and manage addresses.  
 
-#### **2. Product Management**
+### **2. Product Management**
 - **Browse & Search:** Users can filter products by **category, brand, price range, and popularity**.  
 - **Product Details Page:** Displays product images, description, price, stock availability, and reviews.  
 
-#### **3. Shopping Cart & Checkout**
+### **3. Shopping Cart & Checkout**
 - **Add to Cart:** Users can add/remove products from the cart.  
 - **Cart Persistence:** Cart items remain saved even after logout.  
 - **Quantity Adjustment:** Modify product quantities directly in the cart.  
 
-#### **4. Order Management**
+### **4. Order Management**
 - **Order Tracking:** Users can check order status (Pending, Processing, Shipped, Delivered, Canceled).  
 
-#### **5. Payment Integration**
+### **5. Payment Integration**
 - **Online Payments:** Integration with **PayPal, Stripe, or other payment gateways**.  
 - **Cash on Delivery (COD):** Option for paying upon receiving the order.  
 - **Refunds & Cancellations:** Admin can handle returns and issue refunds.
 
-#### **6. Admin Dashboard**
+### **6. Admin Dashboard**
 - **Product & Category Management:** Add, edit, and delete products/categories.  
 - **Order Management:** View, update, or cancel customer orders.  
 - **User Management:** Control user roles, and activate/deactivate accounts.  
 - **Reports & Analytics:** View sales reports, best-selling products, and revenue statistics.  
 
-#### **7. Responsive & User-Friendly UI**
+### **7. Responsive & User-Friendly UI**
 - **Bootstrap & CSS:** Ensures responsive design for mobile, tablet, and desktop.  
 - **AJAX & jQuery:** Improve user experience with smooth interactions.  
 
 ---
 
 > # **🔹 Technologies Used**
+
 - **ASP.NET Core MVC** – Framework for building the application.  
 - **Entity Framework Core** – ORM for database interactions.  
 - **SQL Server** – Database for storing products, users, and orders.  
@@ -64,7 +65,7 @@ toc: true
 ---
 
 #### This **ASP.NET Core MVC e-commerce platform** delivers a **complete and secure shopping experience** with full admin control, payment integration, and a user-friendly interface. 🚀
-
+<br>
 
 <img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5c6cae98-150b-43c7-ba1b-f267ae7eaf96"> <br><br>
 <img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/70c5d506-145c-485a-9033-13d3abd47f24"> <br><br>
