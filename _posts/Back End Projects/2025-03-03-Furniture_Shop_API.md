@@ -2,7 +2,7 @@
 title: FurniStyle (Furniture Shop API)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/a5f260a6-3946-4d85-825e-5b7a150cd34f
+  teaser: https://github.com/user-attachments/assets/c7a11092-0f84-45ef-a700-950090d53861
 ribbon: MidnightBlue
 categories:
   - Back_End_Projects
