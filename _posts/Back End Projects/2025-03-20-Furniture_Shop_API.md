@@ -35,8 +35,6 @@ toc: true
   - Admins can **add, update, and remove furniture**.  
   - Stock levels are updated automatically upon order placement.  
 
-
-
 ### **3. Shopping Cart & Order Management**
 - **Shopping Cart System:**
   - Customers can add furniture to their cart, and it persists even after logging out.  
@@ -49,7 +47,7 @@ toc: true
 - **Manage Products & Categories:** Add, update, or remove furniture and categories.
 - **Manage Orders:** View and update order statuses.
 
-### **4. API Performance & Optimization**
+### **5. API Performance & Optimization**
 - **RESTful API Design:** Ensures scalability and easy integration with web & mobile apps.  
 - **Caching Mechanism:** Implements **in-memory caching** to reduce database load and speed up responses.  
 - **Efficient Querying:** Uses **EF Core with optimized queries** for faster database interactions.  
@@ -76,11 +74,8 @@ toc: true
 This **ASP.NET Core Web API project** provides a **secure, scalable, and high-performance student management system** with **role-based access, caching, and a clean architecture** for future enhancements. 🚀
 <br>
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/9435bec9-6cc8-4343-a772-edb40197f767"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/fa640af0-3add-40d9-bae9-540c6925bfb6"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/95dc1e81-1820-41c3-8ae7-5ab982a3e95a"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/21ec3e8f-438e-4345-aebf-c0c39242dd95"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/b7aafae8-ec23-4c10-9f0d-7ffa36b200d6"> <br><br>
 
 
 
-> # [Check The Code Out ](https://github.com/HusseinAdel7/EduTrack_ASP.NET-Core-API)
+> # [Check The Code Out ](https://github.com/HusseinAdel7/FurniStyleAPI)
