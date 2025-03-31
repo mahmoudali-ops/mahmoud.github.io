@@ -1,8 +1,8 @@
 ---
-title: EduTrack (Student Management System API)
+title: FurniStyle (Furniture Shop API)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/5b5dfc71-b6f2-4b0b-8295-3d32d1a5a43e
+  teaser: https://github.com/user-attachments/assets/a5f260a6-3946-4d85-825e-5b7a150cd34f
 ribbon: MidnightBlue
 categories:
   - Back_End_Projects
@@ -10,35 +10,44 @@ toc: true
 ---
 
 
-> # Student Management System Using ASP.NET Core Web API
+> # Furniture Shop API Using ASP.NET Core Web API
 
-### This backend API provides a comprehensive student and course management system, enabling secure student registration, course browsing, and enrollment. It follows RESTful API principles with role-based authentication to ensure efficient and secure access for both students and administrators.
+### This backend API powers an e-commerce platform for FurniStyle, enabling secure user authentication, browsing furniture collections, managing orders, and handling inventory. Built with ASP.NET Core Web API, it follows RESTful principles and provides role-based authentication for customers and admins.
 
 ---
 
 > # **🔹 Key Features:**
 
 ### **1. User Authentication & Role Management**
-- **Student Registration & Login:** Secure authentication using **ASP.NET Identity**.  
+- **Customer Registration & Login:** Secure authentication using **ASP.NET Identity**.  
 - **Role-Based Access Control:**  
-  - **Student:** Can browse courses, add courses to cart, and enroll.  
-  - **Admin:** Can manage students, courses, and departments.  
+  - **Customer:**  Can browse furniture, add items to the cart, and place orders.  
+  - **Admin:** Can manage products, categories, and orders. 
 - **JWT Authentication:** Secure API access with **JSON Web Tokens (JWT)**.  
-- **Profile Management:** Allows students to update personal details and change passwords.  
+- **Profile Management:** Allows customers to update personal details and view order history.  
 
-### **2. Course & Enrollment Management**
-- **Course Browsing:** Students can filter courses by **department, availability, and difficulty level**.  
-- **Shopping Cart for Courses:**  
-  - Students can **add courses** to a cart before enrollment.  
-  The cart persists even after logging out.  
-- **Enrollment Management:**  
-  - Students can **enroll in selected courses** from the cart.  
-  - Admins can **approve or reject enrollments**.  
+### **2. Furniture & Inventory Management**
+- **Product Browsing:**
+  - Customers can filter furniture by **category, price range, and material and availability**.  
+- **Product Details:**  
+  - Each furniture item has a name, description, images, price, stock status, and category  
+- **Inventory Management:**  
+  - Admins can **add, update, and remove furniture**.  
+  - Stock levels are updated automatically upon order placement.  
 
-### **3. Admin Control Panel**
-- **Manage Students:** View, edit, or deactivate student accounts.  
-- **Manage Courses:** Add, update, or remove courses.  
-- **Manage Departments:** Organize courses into departments.  
+
+
+### **3. Shopping Cart & Order Management**
+- **Shopping Cart System:**
+  - Customers can add furniture to their cart, and it persists even after logging out.  
+- **Order Placement & Tracking:**  
+  - Customers can place orders, view order status, and receive confirmation.
+  - Admins can update order status (Processing, Shipped, Delivered).
+
+### **4. Admin Control Panel**
+- **Manage Customers:** View, edit, or deactivate accounts.  
+- **Manage Products & Categories:** Add, update, or remove furniture and categories.
+- **Manage Orders:** View and update order statuses.
 
 ### **4. API Performance & Optimization**
 - **RESTful API Design:** Ensures scalability and easy integration with web & mobile apps.  
