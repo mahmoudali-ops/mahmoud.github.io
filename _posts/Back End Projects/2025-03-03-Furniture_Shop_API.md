@@ -74,7 +74,7 @@ toc: true
 This **ASP.NET Core Web API project** provides a **secure, scalable, and high-performance student management system** with **role-based access, caching, and a clean architecture** for future enhancements. 🚀
 <br>
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/b7aafae8-ec23-4c10-9f0d-7ffa36b200d6"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/b32d8560-79bf-4c9d-babf-73ecea391761"> <br><br>
 
 
 
