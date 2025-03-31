@@ -70,6 +70,70 @@ toc: true
 
 ---
 
+---
+> # **🔹 Test The API**
+> ### **🔹 Furnitures**
+#### **✅ Get All Furnitures**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/AllFurniture
+```
+#### **✅ Get a Furniture By Id**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/1
+```
+#### **✅ Order Furnitures By Name Ascending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByNameAscending?sort=NameAscending
+```
+#### **✅ Order Furnitures By Name Descending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByNameDescending?sort=NameDescending
+```
+#### **✅ Order Furnitures By Price Ascending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByPriceAscending?sort=PriceAscending
+```
+#### **✅ Order Furnitures By Price Descending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByPriceDescending?sort=PriceDescending
+```
+#### **✅ Order Furnitures By Quantity Ascending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByQuantityAscending?sort=QuantityAscending
+```
+#### **✅ Order Furnitures By Quantity Descending**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SortingFurnitureByQuantityDescending?sort=QuantityDescending
+```
+#### **✅ Search Furniture By Name**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/SearchFurnitureByName?search=Ergonomic Office Chair 2
+```
+#### **✅ Get All Furnitures In A Category**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/GetAllFurnisInCategoryByRoomName?category=Tables
+```
+#### **✅ Get All Furnitures In A Room**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/GetAllFurnisInRoomByRoomName?room=BedRoom
+```
+#### **✅ Filtering Furnitures Between Two Prices**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/GetAllFurnisBetweenTwoPrices?price1=50&price2=75.5
+```
+#### **✅ Applying Pagination on Furnitures**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/ApplyingPaginationOnFurnis?pageIndex=2&pageSize=5
+```
+#### **✅ Get All Furnitures In A Category**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/GetAllFurnisInCategoryByRoomName?category=Tables
+```
+#### **✅ Get All Furnitures In A Category**
+```
+[Git]      |     https://furnistyle.runasp.net/api/Furniture/GetAllFurnisInCategoryByRoomName?category=Tables
+```
+---
 
 This **ASP.NET Core Web API project** provides a **secure, scalable, and high-performance student management system** with **role-based access, caching, and a clean architecture** for future enhancements. 🚀
 <br>
