@@ -19,8 +19,8 @@ locale                   : "en-US"
 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hussein Adel"
-description              : "Full Stack Developer                     Malware Analyst"
+name                     : "Mahmoud Ali"
+description              : "Full Stack Developer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hussein Adel"
+  name             : "Mahmoud Ali"
   avatar           : /assets/images/site_data/d.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack .Net Developer<be><br>---------------  And  ----------------<be><br>Malware Analyst"
-  location         : "Hellwan - Cairo - Egypt"
+  bio              : "Full Stack .Net Developer"
+  location         : " Hurghada -Red Sea - Egypt"
   email            :
   links:
     - label: "LinkedIn"
