@@ -89,4 +89,4 @@ This project was delivered as a **paid freelance job** for a real client, under 
 
 
 > # [Demonstration Video](https://youtu.be/o_8d6xQnCK8)
-> # [Check The Code Out](https://github.com/HusseinAdel7/Lab_Master)
+> # [Check The Code Out](https://github.com/mahmoudali-ops/Stationery_Store)
