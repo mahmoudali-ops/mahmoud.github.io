@@ -10,7 +10,7 @@ toc: true
 ---
 
 
-> # Lab_Master
+> # Lab_Masterdfgdfgdfgdfgdfgdfgdfg
 
 
 **Lab_Master** is a desktop application designed to streamline the management of IT Department labs. It provides detailed insights into labs, computers, software, and students while offering group and student distribution automation.
