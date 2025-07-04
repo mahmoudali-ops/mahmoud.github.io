@@ -10,111 +10,82 @@ toc: true
 ---
 
 
-> # Lab_Masterdfgdfgdfgdfgdfgdfgdfg
+> # Stationery Store
 
 
-**Lab_Master** is a desktop application designed to streamline the management of IT Department labs. It provides detailed insights into labs, computers, software, and students while offering group and student distribution automation.
-
----
-
-## Features and Functionalities
-
-### Lab Management
-1. **Lab Listings:**
-   - View a comprehensive list of all labs in the IT Department.
-   - Visualize each lab with a detailed **sketch**.
-
-2. **Lab Efficiency Analysis:**
-   - Assess lab statuses: **exists**, **outside**, **working well**, **has a problem**, and calculate efficiency percentage.
-   - Generate efficiency reports for individual labs or all labs.
+A complete desktop-based management system tailored for stationery shops, developed using **C# Windows Forms** and **SQLite**. The system provides an intuitive interface to manage products, handle sales operations, and print detailed reports with ease.
 
 ---
 
-### Computer Management
-1. **Computer Details:**
-   - List all computers in a lab with the following attributes:
-     - **Hardware Details:** `caseSerialNumber`, `screenSerialNumber`, `computerName`, `processor`, `RAM`, `storage`, `graphicsCard`, `operatingSystem`.
-     - **Network Details:** `MACAddress`, `connectionToNetworkStatus`.
-     - **Operational Status:** `[status]`.
+## 🎯 Project Purpose
 
-2. **Installed Software:**
-   - Display a list of installed software for each computer:
-     - **Software Name**, **Version**, **Category**.
-
-3. **Assigned Students:**
-   - List students using a computer with:
-     - **Student Name**, **Group**, **Number**.
+This project was delivered as a **paid freelance job** for a real client, under the **supervision of a mentor from the Information Technology Institute (ITI)**. The main goal was to create a lightweight and easily deployable solution for small business owners without the need for complex installations or setups.
 
 ---
 
-### Report Management
-- Generate detailed reports on labs, computers, and software.
-- Save reports in **TXT** or **XLSX** formats or print them directly.
+## ⚙️ Key Features
+
+- 🧑‍💼 **Login System**
+  - Supports two user roles: **Admin** and **Regular User**
+
+- 📦 **Product Management**
+  - Add, edit, delete products
+  - Categorize items by type
+
+- 🛒 **Sales Management**
+  - Add items to a sales invoice
+  - Print receipts for completed sales
+
+- 📊 **Reporting**
+  - Generate and print detailed reports based on:
+    - Sales history
+    - User activity
+    - Product categories
 
 ---
 
-## Dashboard Capabilities
-1. **CRUD Operations (Create, Read, Update, Delete):**
-   - Manage labs, computers, groups, students, and software with ease.
+## 🛠️ Technologies Used
 
-2. **Automation:**
-   - Distribute groups among labs automatically.
-   - Assign students within groups to specific computers manually or automatically.
+- **Language:** C# (.NET Framework)
+- **UI Framework:** Windows Forms
+- **Database:** SQLite (embedded for easy installation)
 
 ---
 
-## Primary Functionality
-The app automates lab and computer assignments:
-1. **Group Distribution:**
-   - Assign groups to labs intelligently based on capacity or criteria.
+## 🖥️ How to Use
 
-2. **Student Assignment:**
-   - Assign students in each group to computers within their respective labs.
-
----
-
-## How to Use
-1. Use the dashboard to manage labs, computers, groups, students, and software.
-2. Analyze lab efficiency and generate reports.
-3. Automatically distribute groups and students across labs and computers.
+1. Download the setup file from the **Releases** section on GitHub.
+2. Run the installer to install the app on your machine.
+3. Launch the app from the desktop shortcut.
+4. The database will be automatically created on first launch.
 
 ---
 
-## Output
-- View lab and computer details in-app.
-- Generate and save reports in **TXT** or **XLSX** formats.
-- Print reports directly for quick access.
-  
+## 👥 Contributors
+
+- 💻 **Developer:** Ahmed Khaled Noor-Elhady , Ahmed Khaled Sayed , Mahmoud AbdelGhany , Maahmoud Ali , Alaa Ayash , Marawan Abdeen 
+- 👨‍🏫 **Supervisor:** Merihan Mohamed : Information Technology Institute (ITI)  
+- 🤝 **Client:** Confidential – Freelance Project
+
 ---
 
-## Used Technologies 
-- C#
-- SQL Server
-- WPF
-- ADO.NET
+## 📸 Screenshots
+
+### Login Screen:
+![Login Screenshot](https://github.com/Ahmd1Khald/Business-Management/blob/master/assets/Screenshot%202025-06-11%20205324.png)
+
+*(Feel free to add more screenshots of the system's features here)*
+
+---
+
 
 
 ## Here are  ScreenShoots Of The Project
 
 
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/865dd7a5-4f9d-4419-be48-ce07ac90ab72"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/f565fa05-52fe-4451-8001-23cb2cc4a5ec"> <br><be>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/978b2670-e6fb-4e37-8f32-81a765da3049"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6d59bef9-4278-4918-b0a0-104ca4807d8d"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/7d5a004f-0f32-4d95-9b10-96b54e88141a"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/d9db5664-8633-4011-9727-17fc10b79205"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/5b9ee391-df3b-49cd-b973-87e88efd0ffa"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/32dc6ca4-7b7e-4fd3-ab16-b9b9294693f4"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/70430b1d-b070-42f3-919b-830f2ea4f29e"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/55a1ab3f-08f1-424e-a679-3b00f387f8cf"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/6799a687-2c5c-46d5-b645-fc45faca2874"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/a706483e-5f08-4570-b3aa-5f364a7c960a"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/854d982f-6391-44c5-bbcd-5fe81cce6540"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/e1f4238c-7db8-4757-8599-db81ac29515b"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/c408ef61-3cbf-4ab0-8cbc-d37d73c08cef"> <br><be>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/87c2998e-38c1-4145-acba-5d8935f895e6"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/a50042ce-f157-45be-bd37-28ce5f8dae9a"> <br><br>
-<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/fe63b539-204c-4e26-a152-f5c187204f44"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/55636aad-43f5-4720-9761-bc82e32e0772"> <br><br>
+<img   alt="Coding" width="600" src="https://github.com/user-attachments/assets/39e1f5e3-4f68-487f-9094-930e3d52f4fa"> <br><br>
+
 
 
 > # [Demonstration Video](https://youtu.be/o_8d6xQnCK8)
