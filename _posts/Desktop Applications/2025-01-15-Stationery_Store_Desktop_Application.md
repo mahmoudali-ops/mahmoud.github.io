@@ -1,8 +1,8 @@
 ---
-title: Lab_Master - IT Lab Management System (Desktop Application)
+title: Stationery Store (Desktop Application)
 classes: wide
 header:
-  teaser: https://github.com/user-attachments/assets/66bef4fa-e072-4fef-97b2-5476a6807155
+  teaser: https://github.com/user-attachments/assets/f849950d-96f4-4df4-9ea4-c4b15b2b5f06
 ribbon: MidnightBlue
 categories:
   - Desktop_Applications
